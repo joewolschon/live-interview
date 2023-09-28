@@ -10,7 +10,7 @@ describe('AppComponent test', () => {
         imports: [RouterTestingModule, AppModule]
     }));
 
-    it('should have correct navigation links', () => {
+    it('should have navigation component', () => {
 
     });
 
