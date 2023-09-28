@@ -9,6 +9,7 @@ configuration:
     - ./angular.json
     - ./package.json
     - ./package-lock.json
+    - src/index.html
   ide_config:
     default_open_files:
       - src/README.md
