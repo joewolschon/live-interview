@@ -7,7 +7,6 @@ configuration:
       - unit.xml
   readonly_paths:
     - ./angular.json
-    - ./package.json
     - ./package-lock.json
     - src/index.html
   ide_config:
