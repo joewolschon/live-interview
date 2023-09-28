@@ -3,10 +3,11 @@ import {RouterTestingModule} from '@angular/router/testing';
 import {AppComponent} from './app.component';
 import {RouterOutlet} from "@angular/router";
 import {By} from "@angular/platform-browser";
+import {AppModule} from "./app.module";
 
 describe('AppComponent test', () => {
     beforeEach(() => TestBed.configureTestingModule({
-        imports: [RouterTestingModule, AppComponent]
+        imports: [RouterTestingModule, AppModule]
     }));
 
     it('should have correct navigation links', () => {
