@@ -5,7 +5,7 @@ This sample application is meant to test your knowledge of Angular and CSS.
   * GET https://mocki.io/v1/bf0c9aa3-ebfc-4849-ae9b-268482b082a8
   * Designs: https://www.figma.com/file/ArxvNEtAdrWgHStXFccN5Z/Example-Mockups?type=design&node-id=1%3A1282&mode=design&t=iUTtPhKdQTqwkPZD-1
 * Create a table that lists information about the transactions created
-  * GET https://mocki.io/v1/ee9cfed3-97db-46c9-9532-5bf06e031523
+  * GET https://mocki.io/v1/5f6516ee-c4b9-403c-885a-bb27a6e42d48
   * Designs: https://www.figma.com/file/ArxvNEtAdrWgHStXFccN5Z/Example-Mockups?type=design&node-id=2-3534&mode=design
 
 
