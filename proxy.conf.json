@@ -1,0 +1,9 @@
+{
+  "/api": {
+    "target": "https://api.payjunctionlabs.com/",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {"^/api" : ""}
+  }
+}
